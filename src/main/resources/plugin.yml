@@ -1,0 +1,11 @@
+name: CPermsPaper
+version: ${project.version}
+main: Cortex.CPermsPaper.CPermsPaperMain
+api-version: 1.16
+load: STARTUP
+authors: [CommanderCortex]
+description: And Updated CPerms in Paper
+website: https://github.com/CommanderCortex
+commands:
+  rango:
+    description: impostare il ranking dell'utente
